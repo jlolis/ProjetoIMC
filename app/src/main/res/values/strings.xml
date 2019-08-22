@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoIMC</string>
+    <string name="peso">Digite seu peso (Kg)</string>
+    <string name="altura">Digite sua altura (m)</string>
+    <string name="resultado"> resultado</string>
+
+</resources>
